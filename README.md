@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macijayasumana&show_icons=true&theme=tokyonight&hide_title=true" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macijayasumana&theme=tokyonight" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamodhjayasumana&show_icons=true&theme=tokyonight&hide_title=true" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodhjayasumana&theme=tokyonight" height="150px" />
 </p>
 
 ---
