@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,azure,dotnet,csharp,python,tensorflow,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,mongodb,azure,csharp,python,tensorflow,git,github,html,css,js" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 | 📰 **Blog Web App** | MURN-stack responsive blog site | MongoDB, Express, React, Node |
 | 🚗 **Vehicle Reservation System** | Secure Web App w/ OWASP protections | ASP.NET, OIDC, SQL Server |
 
-🔗 Check all at: [github.com/macijayasumana](https://github.com/macijayasumana)
+🔗 Check all at: [github.com/macijayasumana](https://github.com/chamodhjayasumana)
 
 ---
 
